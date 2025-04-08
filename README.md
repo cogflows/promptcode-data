@@ -45,7 +45,7 @@ The `content/index.json` file contains a JSON array where each object represents
 [
   {
     "name": "pydantic_ai_llms_full",
-    "category": ["docs", "agent_frameworks"],
+    "category": "Docs/Agent framwork",
     "url": "[https://ai.pydantic.dev/llms.txt](https://ai.pydantic.dev/llms.txt)",
     "description": "Pydantic AI LLM Definitions",
     "tags": ["python", "agent", "pydantic", "llm"]
