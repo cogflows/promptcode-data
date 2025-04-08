@@ -32,7 +32,7 @@ promptcode-data/
 The `content/index.json` file contains a JSON array where each object represents a single content source available to the PromptCode extension. Each object should adhere to the following structure:
 
 * **`name`** (string, required): The base identifier for the content (e.g., `"pydantic_ai_llms_full"`). This should be unique within its category.
-* **`category`** (array of strings, required): Represents the hierarchical category path (e.g., `["docs", "agent_frameworks"]`). The PromptCode extension typically displays this path prefixed with `@` (e.g., `@docs/agent_frameworks`).
+* **`category`** (string, required): Represents the hierarchical category path (e.g., `"Docs/Agent frameworks"]`). The PromptCode extension typically displays this path prefixed with `@` (e.g., `@dDcs/Agent rameworks`).
 * **`url`** (string, required): The direct URL from which the PromptCode extension should fetch the actual content file.
     * For externally hosted content, this is the URL to the resource.
     * For manually hosted files within this repository, this **must** be the raw GitHub content URL pointing to the file within the `/content/raw/` directory.
