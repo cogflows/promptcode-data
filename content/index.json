@@ -1,0 +1,9 @@
+[
+    {
+      "name": "pydantic_ai_llms_full",
+      "category": ["docs", "agent_frameworks"],
+      "url": "https://ai.pydantic.dev/llms.txt",
+      "description": "Pydantic AI LLM Definitions",
+      "tags": ["python", "agent", "pydantic", "llm"]
+    }
+  ]
