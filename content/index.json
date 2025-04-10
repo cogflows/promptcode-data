@@ -2,7 +2,7 @@
   {
     "name": "google_adk_llms_full",
     "category": "Docs/Agent Frameworks",
-    "url": "https://raw.githubusercontent.com/cogflows/promptcode-data/content/raw/google_adk/llms-full.txt",
+    "url": "https://raw.githubusercontent.com/cogflows/promptcode-data/main/content/raw/google_adk/llms-full.txt",
     "description": "Google ADK LLM Definitions",
     "tags": ["python", "agent", "google", "adk", "llm"]
   },
